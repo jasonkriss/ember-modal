@@ -1,3 +1,5 @@
+**This is no longer supported. Please consider using [ember-modal-dialog](https://github.com/yapplabs/ember-modal-dialog) instead.**
+
 # ember-modal
 
 [WAI-ARIA][wai-aria] accessible modal dialog component for [Ember.js][ember].
